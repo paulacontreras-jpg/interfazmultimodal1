@@ -15,7 +15,7 @@ with st.sidebar:
 
 
 try:
-    os.mkdir("temp")https://github.com/paulacontreras-jpg/interfazmultimodal1/blob/main/app.py
+    os.mkdir("temp")
 except:
     pass
 
