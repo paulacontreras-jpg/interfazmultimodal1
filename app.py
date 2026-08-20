@@ -20,13 +20,12 @@ except:
     pass
 
 st.subheader("Una fabula de Rafel Pombo")
-st.write('El hijo de Rana, Rinrín renacuajo,
-        'salió esta mañana muy tieso y muy majo
-        'con pantalón corto, corbata a la moda,
-        'sombrero encintado y chupa de boda.
-        '—¡Muchacho, no salgas! —le grita mamá
-        'pero él hace un gesto y orondo se va.'
-        )
+st.write('El hijo de Rana, Rinrín renacuajo,'  
+         ' salió esta mañana muy tieso y muy majo' 
+         ' con pantalón corto, corbata a la moda, '  
+         ' sombrero encintado y chupa de boda. ' 
+         ' —¡Muchacho, no salgas! —le grita mamá '
+         ' pero él hace un gesto y orondo se va.'
            
 st.markdown(f"¿Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
