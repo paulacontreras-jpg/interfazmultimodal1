@@ -26,6 +26,7 @@ st.write('El hijo de Rana, Rinrín renacuajo,'
          ' sombrero encintado y chupa de boda. ' 
          ' —¡Muchacho, no salgas! —le grita mamá '
          ' pero él hace un gesto y orondo se va.'
+        )
            
 st.markdown(f"¿Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
